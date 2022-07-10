@@ -2,7 +2,7 @@ Spherical robot that rolls on the ground using pendulum mechanism and controlled
 
 prototype 1 with a transperant shell
 
-~~need to image~~
+https://user-images.githubusercontent.com/71921860/178134501-67540d98-20f6-4399-a98c-e82013b2c141.mp4
 
 prototype 2 with a 3D printed shell
 
