@@ -1,4 +1,4 @@
-Spherical robot that rolls on the ground using pendulum mechanism and controlled using a radio transmitter. It is mounted with a camera for surveillance and is intended for use in military application. The oscillations produced by the robot are not rectified while the project was built but it can be corrected using magnetometer sensor and by applying PID controller to the system. 
+Spherical robot that rolls on the ground using pendulum mechanism and controlled using a radio transmitter. It is mounted with a camera for surveillance and is intended for use in military application. The oscillations produced by the robot are not rectified while the project was built but it can be corrected using magnetometer sensor and by applying PID controller to the system. The robot is equipped with a camera and mic for surveillance.
 
 prototype 1 with a transperant shell
 
